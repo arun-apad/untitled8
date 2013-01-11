@@ -171,7 +171,7 @@
         </dependency>
     </dependencies>
 
-    <!--<build>
+    <build>
         <finalName>trial-api</finalName>
         <sourceDirectory>src/main/java</sourceDirectory>
         <outputDirectory>src/main/webapp/WEB-INF/classes</outputDirectory>
@@ -218,6 +218,5 @@
 
         </plugins>
     </build>
--->
 
 </project>
